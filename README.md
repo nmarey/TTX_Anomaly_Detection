@@ -1,2 +1,3 @@
 # TTX_Anomaly_Detection
-SAS macros for processing data and anomaly detection
+
+SAS macros that uses the median absolute deviation in order to find an outlier.
